@@ -1,3 +1,6 @@
+# NOTE:
+This repository is used for my practice, you should goto (mmp)[https://github.com/mmp/pbrt-v3] to get the right code if your intention is not cloning my modified copy.
+
 pbrt, Version 3
 ===============
 
